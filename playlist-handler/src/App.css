@@ -1,0 +1,12 @@
+.App {
+  text-align: center;
+}
+
+h1 {
+    font-size: 54px;
+    color: black;
+}
+
+html, body {
+    background-color: grey;
+}
